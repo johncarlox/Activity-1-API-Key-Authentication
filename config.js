@@ -1,1 +1,1 @@
-window.MAPQUEST_API_KEY = "tQRoVFhUbocMX70xu1PGXWzDQRxbF4jF";
+window.MAPQUEST_API_KEY = "TmUGJ5ZrgsTkmqfARBMYk7QpCmdrMcUO";
